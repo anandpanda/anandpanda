@@ -37,6 +37,16 @@
 <hr/>
 
 <h3 align="center">
+  KYC (Know Your Coder) 👩🏻‍💻
+<h3/>
+
+<p align="center">
+  👋 Hello there! I'm Anand, a passionate Competitive Programmer and DSA enthusiast venturing into the realm of Full Stack Web Development. Armed with a knack for problem-solving and a love for elegant code, I thrive in crafting innovative solutions and building robust applications. Whether it's conquering coding challenges or architecting seamless user experiences, I'm always up for the challenge. In addition to honing my coding skills, I enjoy crafting Shayaris, indulging in soulful music, and exploring the captivating world of anime. Let's collaborate and bring our full stack projects to life! 🌐💻🚀
+</p>
+
+<hr/>
+
+<h3 align="center">
   Languages Frameworks Tools 🚀
 </h3>
 
@@ -54,10 +64,10 @@
 
 <div align="center">
   <h3> My Contributions 🐍 </h3>
-  <br>
+
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/anandpanda/anandpanda/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 <hr/>
