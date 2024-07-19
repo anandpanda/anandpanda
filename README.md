@@ -12,6 +12,8 @@
  
  🌱 I’m currently learning **Next.js, TypeScript, PostGre SQL & Figma**
 
+ 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-anandpanda.vercel.app)**
+
  📫 How to reach me **anand612p@gmail.com**
 
  </div>
