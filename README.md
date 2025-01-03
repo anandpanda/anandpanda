@@ -62,8 +62,8 @@
 <br/>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,nextjs,tailwind,bootstrap,typescript" /><br/>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,python,figma,html,css,git" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,django,nextjs,tailwind,bootstrap" /><br/>
+    <img src="https://skillicons.dev/icons?i=typescript,mongodb,mysql,postgres,python,figma,html,css,git" /><br>
     <img src="https://skillicons.dev/icons?i=postman,matlab,c,cpp,github,vscode" /><br>
 </p>
 
