@@ -62,12 +62,12 @@
 <br/>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,django,flask" /><br>
-    <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb" /><br>
-    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,matlab" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,bash,vscode,postman,notion,figma" /><br>
-    <img src="https://skillicons.dev/icons?i=c,cpp,androidstudio,bootstrap,pnpm" /><br>
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=sklearn,opencv" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,androidstudio,linux" /><br>
 </p>
 
 <br/>
