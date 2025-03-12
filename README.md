@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **A Secret Project**
+ 🔭 I’m currently working on **A Secret Project 🤫**
  
- 🌱 I’m currently learning **Next.js, TypeScript, PostGre SQL & Figma**
+ 🌱 I’m currently learning **React Native, Python, Django, Algorithms**
 
  👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-anandpanda.vercel.app)**
 
@@ -24,7 +24,7 @@
     <a href="https://linkedin.com/in/anand-panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anand-panda" height="30" width="40" /></a>
     <a href="https://instagram.com/_anand.panda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anand.panda_" height="30" width="40" /></a>
     <a href="https://codeforces.com/profile/anand.panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anand.panda" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/anand612p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anand612p" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/anand_panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anand_panda" height="30" width="40" /></a>
     <a href="https://auth.geeksforgeeks.org/user/anandpanda/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anandpanda/profile" height="30" width="40" /></a>
 </p>
 
@@ -62,9 +62,12 @@
 <br/>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,django,nextjs,tailwind,bootstrap" /><br/>
-    <img src="https://skillicons.dev/icons?i=typescript,mongodb,mysql,postgres,python,figma,html,css" /><br>
-    <img src="https://skillicons.dev/icons?i=git,postman,matlab,c,cpp,github,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,django,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,matlab" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,bash,vscode,postman,notion,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,androidstudio,bootstrap,pnpm" /><br>
 </p>
 
 <br/>
