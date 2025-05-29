@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **A Secret Project 🤫**
  
- 🌱 I’m currently learning **React Native, Python, Django, Algorithms**
+ 🌱 I’m currently learning **Data Structures and Algorithms**
 
  👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-anandpanda.vercel.app)**
 
